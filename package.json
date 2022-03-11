@@ -1,0 +1,19 @@
+{
+  "name": "cdk-env",
+  "version": "0.0.1",
+  "description": "\"Personal CDK environment\"",
+  "main": "index.js",
+  "dependencies": {
+    "cdk": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/claire-agentsync/cdk"
+  },
+  "author": "Claire B",
+  "license": "ISC"
+}
